@@ -14,4 +14,4 @@ If you have ten minutes, start with the Gaia README's [where to start reading](h
 
 ## Also here
 
-- The Unity Artificial Intelligence for Beginners course projects, 01AI through 10AI (May 2026): vector math, physics, A*, waypoints and graphs, navmesh, finite state machines, steering behaviors, crowd simulation.
+- Unity Course on Game Artificial Intelligence, 01AI through 10AI : vector math, physics, A*, waypoints and graphs, navmesh, finite state machines, steering behaviors, crowd simulation.
